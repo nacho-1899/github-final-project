@@ -6,8 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
-
+   # nacho-1899
    # Input:
    # p, principal amount
    # t, time period in years
